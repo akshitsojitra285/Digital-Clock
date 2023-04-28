@@ -15,7 +15,7 @@ body{
     background-image: url(dclock.jpg);
     border-radius: 25%;
     width: 400px;
-    /* height: 100px; */
+    margin: 1pc;
     padding: 30px;
     font-size: xx-large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
